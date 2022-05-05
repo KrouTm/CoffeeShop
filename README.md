@@ -1,4 +1,4 @@
-<h1 align="center"><img src="static/Pictures/logo.png" width="100px">CoffeeShop</h1>
+<h1 align="center"><img src="static/Pictures/logo.png" height="100px" width="100px">CoffeeShop</h1>
 
 [View the live project here.](https://reservation-coffee.herokuapp.com/)
 
