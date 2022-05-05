@@ -15,4 +15,33 @@ html{scroll-behavior: smooth;}
   #menu{display: flex; list-style: none;}
   #menu a{display: block;}
 
+  /* Dropdown button */
+  .dropdown{background-color: inherit; outline: none; border: none; padding: 1.5rem; position: relative; background: none; z-index: 10; box-shadow: 0 1px 0 0 rgba(206, 189, 179, 0.5);}
+  .dropdown::before, .dropdown::after{content: ''; position: absolute; width: 100%; height: 100%; background-color: rgba(206, 189, 179, 0.1); top: 0; left: 0; transition: clip-path .5s; z-index: -1;}
+  .dropdown::before{clip-path: circle(0 at 0 0);}
+  .dropdown::after{clip-path: circle(0 at 100% 100%);}
+  .dropdown:hover::before{clip-path: circle(100% at 0 0);}
+  .dropdown:hover::after{clip-path: circle(100% at 100% 100%);}
+  .dropdown-content{display: none; position: absolute; margin-top: 1.5rem; margin-left: -1.5rem; width: 100%;}
+  .dropdown-content > a{display: block; text-align: left; padding: 1rem; background-color: rgba(20, 10, 10, 0.3);}
+  .dropdown:hover .dropdown-content{display: block;}
+  .drop{display: none;}
+
+  @media (max-width: 768px){
+      /*Small-Navbar*/
+      .drop{display: block;}
+      .logo{width: 5rem; height: 5rem; margin-top: 0.2rem;}
+      .dropdown{display: none;}
+      #menu{background-color: rgba(20, 10, 10, 0.5); backdrop-filter: blur(5px); display: block; position: absolute; width: 100%; top: 5rem; right: 0px; transition: 1s; z-index: 100; height: 0px; visibility: hidden; overflow-y: hidden;}
+      #nav.active #menu{height: calc(100vh - 70px); visibility: visible; overflow-y: auto;}
+      #menu a{padding: 1.5rem 0; margin: 0 1rem; text-align: center;}
+      #mobile{display: flex; border: none; background: none; cursor: pointer; gap: 0.5rem;}
+      #hamburger{border-top: 2px solid; width: 40px; position: absolute; right: 2rem; margin-top: -7px;}
+      #hamburger::after,
+      #hamburger::before{content: ''; display: block; width: 40px; height: 2px; background: currentColor; margin-top: 10px; transition: 0.3s; position: relative;}
+      #nav.active #hamburger {border-top-color: transparent;}
+      #nav.active #hamburger::before{transform: rotate(135deg);}
+      #nav.active #hamburger::after{transform: rotate(-135deg); top: -10px;}
+    }
+
 
