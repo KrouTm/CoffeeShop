@@ -1,6 +1,6 @@
 body{background-image: url(https://img.rawpixel.com/s3fs-private/rawpixel_images/website_content/pf-misctexture01-tong-025-eye-01_1.jpg?w=1000&dpr=1&fit=default&crop=default&q=65&vib=3&con=3&usm=15&bg=F4F4F3&ixlib=js-2.2.1&s=d3a00d6c0f4d514aeb5fe93b069730c3); background-attachment: fixed;}
 html{scroll-behavior: smooth;}
-*{color: rgb(206, 189, 179); text-decoration: none; font-size: x-large; font-family: 'Bodoni Moda', serif; box-sizing: border-box; margin: 0; padding: 0; border: none;}
+*{color: rgb(206, 189, 179); text-decoration: none; font-size: x-large; list-style: none; font-family: 'Bodoni Moda', serif; box-sizing: border-box; margin: 0; padding: 0; border: none;}
 
 /*Navbar*/
   .logo{background-image: url("../Pictures/logo.png"); background-repeat: no-repeat; background-position: center; background-size: cover; width: 6rem; height: 6rem; margin-left: 1rem; margin-right: 1rem;}
@@ -53,7 +53,8 @@ html{scroll-behavior: smooth;}
 
   /*Phrase & links on top*/
   .phrase-first{position: relative; font-size: 3rem; font-family: 'Bebas Neue', cursive; letter-spacing: 0.3rem;}
-  .p-phrase-link a{position: relative; font-family: 'Bebas Neue', cursive; padding: 0.7rem; background-color: rgba(210, 105, 30, 0.7); border: solid 1px; text-align: center;}
+  .p-phrase-link{position: absolute; top: 6rem; padding: 2rem;}
+  .p-phrase-link a{position: relative; z-index: 1000; font-family: 'Bebas Neue', cursive; padding: 0.7rem; background-color: rgba(210, 105, 30, 0.7); border: solid 1px; text-align: center;}
   .diamond{padding: 1rem; text-align: center;}
 
   @media (max-width: 768px){
