@@ -100,6 +100,68 @@
         <!--Send-->
         <p class="send">Send us the information so we can organize everything for you!</p>            
 
+        <div class="booking">
+
+            <!--Calendar-->
+            <div class="calendar">
+                <div class="calendar-header">
+                    <span class="month-picker" id="month-picker">February</span>
+                    <div class="year-picker">
+                        <span class="year-change" id="prev-year"><pre><</pre></span>
+                        <span id="year">2021</span>
+                        <span class="year-change" id="next-year"><pre>></pre></span>
+                    </div>
+                </div>
+                <div class="calendar-body">
+                    <div class="calendar-week-day">
+                        <div>Sun</div>
+                        <div>Mon</div>
+                        <div>Tue</div>
+                        <div>Wed</div>
+                        <div>Thu</div>
+                        <div>Fri</div>
+                        <div>Sat</div>
+                    </div>
+                    <div class="calendar-days"></div>
+                </div>
+                <div class="x"><div class="month-list"></div></div>
+                
+            </div>
+
+            <!--Information-->
+            <div class="p-information">
+                <form action="/submit" method="POST">
+                    <div class="p-allinfo">
+                        <input class="information" name="date" type="date" required/><!--Date-->
+                        <input class="information" name="time" type="time" required/><!--Time-->                    
+                    </div>
+                    <div class="p-allinfo">
+                        <input class="information" style="text-transform: capitalize;" name="name" placeholder="Name:" type="text" required/><!--Name-->
+                        <input class="information" style="text-transform: capitalize;" name="lastname" placeholder="Last name:" type="text" required/><!--Last name-->
+                    </div>
+                    <div class="p-allinfo">
+                        <input class="information" name="email" placeholder="E-mail:" type="email" required/><!--E-mail-->
+                        <input class="information" name="phone" placeholder="Phone:" type="tel" required/><!--Phone-->                    
+                    </div>
+                    <div class="p-allinfo">
+                        <select class="information" name="nperson" required><!--Persons-->
+                            <option value="1">1 person</option>
+                            <option value="2">2 persons</option>
+                            <option value="3">3 persons</option>
+                            <option value="4">4 persons</option>
+                            <option value="5">5 persons</option>
+                            <option value="6">6 persons</option>
+                            <option value="7">7 persons or more</option>
+                        </select>                    
+                    </div>
+                    <div class="p-allinfo">
+                        <textarea class="information" style="text-transform: capitalize;" name="comments" cols="40" rows="6" placeholder="Comments (optional):"></textarea><!--Comment-->
+                        <br>
+                        <input class="submit" type="submit" value="Submit"/><!--Submit-->                    
+                    </div>
+                </form>
+            </div>
+        </div>
 
         <!--Footer-->
         <section class="Footer">
