@@ -127,3 +127,17 @@ html{scroll-behavior: smooth;}
     .reser{position: relative; margin: 5rem 0 0 0; align-items: baseline; color: chocolate; text-shadow: none;}
   }
 
+  /*3 Cup of coffee*/
+  .coffee-all{display: flex; position: relative; margin-top: -40px; justify-content: space-around; height: 100%; width: 100%;}
+  .cup-coffee{width: 20rem; justify-content: space-around;}
+  .img-s1{background-image: url('../Pictures/cup.png');}
+  .img-s2{background-image: url('../Pictures/cup.png');}
+  .img-s3{background-image: url('../Pictures/cup.png');}
+  .all-s{background-position: center; background-repeat: no-repeat; background-size: contain; width: auto; height: 7rem;}
+  .text-coffee{padding: 5%; text-align: center;}
+  .text-coffee h1{font-family: 'Bebas Neue', cursive; font-size: 1.5rem; color: chocolate;}
+
+  @media(max-width:768px){
+    .coffee-all{display: inline-block; margin-top: 0;}
+    .cup-coffee{margin: auto;}
+  }
