@@ -231,6 +231,8 @@ html{scroll-behavior: smooth;}
   .thanks .link{padding: 0.7rem; background-color: rgba(210, 105, 30, 0.7); border: solid 1px; width: max-content; margin: auto;}
   .thanks a{font-family: 'Bebas Neue', cursive;}
 
+
+
 /*320px — 480px: Mobile devices*/
 @media (min-width:320px) and (max-width:480px){
   *{font-size: small;}
