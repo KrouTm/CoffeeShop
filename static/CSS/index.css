@@ -110,3 +110,20 @@ html{scroll-behavior: smooth;}
 
   /*Title Reservation*/
   .reser{position: absolute; z-index: 50; display: flex; width: 100%; height: 100%; justify-content: center; margin-top: 30vh; font-size: 5rem; font-family: 'Bebas Neue', cursive; color: rgba(210, 105, 30, 0.9); text-shadow: 0 1rem 1rem black;}
+
+  /*Gallery*/
+  .container-galeria{display: grid; grid-template-columns: repeat(6,1fr); grid-auto-rows: 20vh; padding: 5px; grid-gap: 5px;}
+  .item-galeria{position: relative;}
+  .item-galeria .img-galeria{width: 100%; height: 100%; object-fit: cover;}
+  .h-1{grid-row: span 1;}
+  .h-2{grid-row: span 2;}
+  .w-1{grid-column: span 1;}
+  .w-2{grid-column: span 2;}
+
+  @media(max-width:600px){
+      .container-galeria{grid-template-columns: repeat(1,1fr); grid-auto-rows: 50vh;}
+      .h-2{grid-row: span 1;}
+      .w-2{grid-column: span 1;}
+    .reser{position: relative; margin: 5rem 0 0 0; align-items: baseline; color: chocolate; text-shadow: none;}
+  }
+
