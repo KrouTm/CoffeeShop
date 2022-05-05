@@ -141,3 +141,8 @@ html{scroll-behavior: smooth;}
     .coffee-all{display: inline-block; margin-top: 0;}
     .cup-coffee{margin: auto;}
   }
+
+  /*Send*/
+  .send{position: relative; font-family: 'Bebas Neue', cursive; color: chocolate; font-size: 1.5rem; display: flex; justify-content: center; padding: 2rem; text-align: center;}
+
+
