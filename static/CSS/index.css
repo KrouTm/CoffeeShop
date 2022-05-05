@@ -106,3 +106,7 @@ html{scroll-behavior: smooth;}
   .p-info-font i{color: chocolate; margin-right: 1rem;}
   .p-info-font a:hover{color: rgba(206, 189, 179, 0.555);}
 
+/*All Booking*/
+
+  /*Title Reservation*/
+  .reser{position: absolute; z-index: 50; display: flex; width: 100%; height: 100%; justify-content: center; margin-top: 30vh; font-size: 5rem; font-family: 'Bebas Neue', cursive; color: rgba(210, 105, 30, 0.9); text-shadow: 0 1rem 1rem black;}
