@@ -2,4 +2,6 @@
 
 [View the live project here.](https://reservation-coffee.herokuapp.com/)
 
-<h2 align="center"><img src="static/Pictures/coffee.jpg"></h2>
+<p align="center">For lovers of all types of coffee</p>
+
+<h2 align="center"><img src="screenshots/FireShot Capture 005 - Multi Device Website Mockup Generator - techsini.com.png"></h2>
