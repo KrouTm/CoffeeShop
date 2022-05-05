@@ -62,4 +62,24 @@ html{scroll-behavior: smooth;}
     .p-phrase-link a{display: inline-table;}
   }
 
+  /*3 Imgs*/
+  .card-all{display: inline-flex; position: relative; justify-content: space-around; height: 100%; width: 100%;}
+  .img-coffee{background-image: url(https://images.unsplash.com/photo-1524350876685-274059332603?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1471&q=80);}
+  .img-coffee1{background-image: url(https://images.unsplash.com/photo-1606160596333-0afbc139925c?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070&q=80);}
+  .img-coffee2{background-image: url(https://images.unsplash.com/photo-1630938237517-0fcaefdb2641?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1974&q=80);}
+  .card-info{width: auto; background-color: rgba(0, 0, 0, 0.5); border: solid 2px rgba(206, 189, 179, 0.2); margin: 1rem;}
+  .all-coffee{background-position: center; background-repeat: no-repeat; background-size: cover; height: 45vh;}
+  .text-card{padding: 5%;}
+  .text-card h1{font-family: 'Bebas Neue', cursive; font-size: 1.5rem; color: chocolate;}
 
+  @media (max-width: 768px){
+    .card-all{display: inline-table; justify-content: center;}
+    .all-coffee{margin: auto; width: 70%; border: solid 2px rgba(206, 189, 179, 0.2);}
+    .card-info{width: 100%; margin: auto; margin: 5vh 0; border: none;}
+    .text-card{position: absolute; margin: -23vh 15%; text-align: center; backdrop-filter: blur(3px); background-color: rgba(0, 0, 0, 0.5);}
+  }
+  @media (max-width: 480px){
+    .card-info{width: 100%;}
+  }
+
+  
