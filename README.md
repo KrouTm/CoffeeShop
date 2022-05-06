@@ -3,7 +3,7 @@
 **<p align="center">For lovers of all types of coffee</p>**
 
 [View the live project here.](https://reservation-coffee.herokuapp.com/)
-<h2 align="center"><img src="screenshots/FireShot Capture 005 - Multi Device Website Mockup Generator - techsini.com.png"></h2>
+<p align="center"><img src="screenshots/FireShot Capture 012 - Multi Device Website Mockup Generator - techsini.com.png"></p>
 
 ## User Experience (UX)
 
@@ -64,6 +64,17 @@
     - All the pictures that I used on the website.
 - [Flask](https://flask.palletsprojects.com/en/2.1.x/)
     - To connect Python with Postgre.
+
+## Menu Page
+<p align="center"><img src="screenshots/FireShot Capture 007 - Multi Device Website Mockup Generator - techsini.com.png" height="120px" width="120px"></p>
+
+## Reservation Page
+<p align="center"><img src="screenshots/FireShot Capture 010 - Multi Device Website Mockup Generator - techsini.com.png" height="120px" width="120px"></p>
+
+## Success Page
+<p align="center"><img src="screenshots/FireShot Capture 011 - Multi Device Website Mockup Generator - techsini.com.png" height="120px" width="120px"></p>
+
+
 
 ## Testing
 The W3C Markup Validator and W3C CSS Validator Services were used to validate every page of the project to ensure there were no syntax errors in the project.
