@@ -110,7 +110,7 @@ html{scroll-behavior: smooth;}
 /*All Booking*/
 
   /*Title Reservation*/
-  .reser{position: absolute; z-index: 50; display: flex; width: 100%; height: 100%; justify-content: center; margin-top: 30vh; font-size: 5rem; font-family: 'Bebas Neue', cursive; color: rgba(210, 105, 30, 0.9); text-shadow: 0 1rem 1rem black;}
+  .reser{position: absolute; z-index: 50; display: flex; width: 100%; height: 50%; justify-content: center; align-items: flex-end; font-size: 5rem; font-family: 'Bebas Neue', cursive; color: rgba(210, 105, 30, 0.9); text-shadow: 0 1rem 1rem black;}
 
   /*Gallery*/
   .container-galeria{display: grid; grid-template-columns: repeat(6,1fr); grid-auto-rows: 20vh; padding: 5px; grid-gap: 5px;}
@@ -122,9 +122,9 @@ html{scroll-behavior: smooth;}
   .w-2{grid-column: span 2;}
 
   @media(max-width:600px){
-      .container-galeria{grid-template-columns: repeat(1,1fr); grid-auto-rows: 50vh;}
-      .h-2{grid-row: span 1;}
-      .w-2{grid-column: span 1;}
+    .container-galeria{grid-template-columns: repeat(1,1fr); grid-auto-rows: 50vh;}
+    .h-2{grid-row: span 1;}
+    .w-2{grid-column: span 1;}
     .reser{position: relative; margin: 5rem 0 0 0; align-items: baseline; color: chocolate; text-shadow: none;}
   }
 
@@ -233,6 +233,19 @@ html{scroll-behavior: smooth;}
   .thanks a{font-family: 'Bebas Neue', cursive;}
 
 
+/*Menu*/
+.img-coffee-menu{background-image: url(https://images.unsplash.com/photo-1619416116042-b210c119b7f2?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070&q=80); background-position: center; background-attachment: fixed; background-size: cover; background-repeat: no-repeat; height: 6rem;}
+.img-coffee-menu h1{}
+
+.all-menu{background-image: url(https://img.freepik.com/foto-gratis/viejo-fondo-negro-textura-grunge-papel-tapiz-oscuro-pizarra-pizarra-pared-habitacion_1258-28312.jpg?t=st=1651781276~exp=1651781876~hmac=3c0a7ff802fb28230586accf779e848ee6aeb157a30d8cc8392be3bfd3f91f05&w=1380); background-repeat: no-repeat; background-size: cover; width: 60%; justify-content: center; border-style: double; border-width: 0.5rem; border-color: rgba(255, 255, 255, 0.7); margin: 2rem; box-shadow: 0 0 1rem 1rem rgba(0, 0, 0, 0.7);}
+.p-menu{display: grid; grid-template-columns: repeat(2,1fr); text-align: center;}
+.p-menu ul{font-family: 'Shadows Into Light Two', cursive; font-size: 1.5rem; font-weight: bold; margin: 2rem;}
+.p-menu li{font-family: 'Kalam', cursive; font-weight: 100;}
+.p-menu ul, li{color: white; letter-spacing: 1px;}
+.title-img{display: grid; margin: 2rem; grid-template-columns: repeat(2,1fr); width: fit-content;}
+.title-menu{line-height: 5rem;}
+.title-menu h1{font-family: 'Shadows Into Light Two', cursive; font-size: 4rem; font-weight: lighter; color: white; letter-spacing: 1rem}
+.title-menu h2{font-family: 'Bebas Neue', cursive; font-size: 7rem; color: rgba(210, 105, 30, 0.9); text-shadow: 0 1rem 1rem black;}
 
 /*320px — 480px: Mobile devices*/
 @media (min-width:320px) and (max-width:480px){
