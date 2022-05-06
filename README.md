@@ -66,13 +66,13 @@
     - To connect Python with Postgre.
 
 ## Menu Page
-<p align="center"><img src="screenshots/FireShot Capture 007 - Multi Device Website Mockup Generator - techsini.com.png" height="120px" width="120px"></p>
+<p align="center"><img src="screenshots/FireShot Capture 007 - Multi Device Website Mockup Generator - techsini.com.png"></p>
 
 ## Reservation Page
-<p align="center"><img src="screenshots/FireShot Capture 010 - Multi Device Website Mockup Generator - techsini.com.png" height="120px" width="120px"></p>
+<p align="center"><img src="screenshots/FireShot Capture 010 - Multi Device Website Mockup Generator - techsini.com.png"></p>
 
 ## Success Page
-<p align="center"><img src="screenshots/FireShot Capture 011 - Multi Device Website Mockup Generator - techsini.com.png" height="120px" width="120px"></p>
+<p align="center"><img src="screenshots/FireShot Capture 011 - Multi Device Website Mockup Generator - techsini.com.png"></p>
 
 
 
