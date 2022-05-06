@@ -58,7 +58,7 @@ html{scroll-behavior: smooth;}
   .diamond{padding: 1rem; text-align: center;}
 
   @media (max-width: 768px){
-    .p-phrase-link{display: grid; justify-content: center; align-items: center;}
+    .p-phrase-link{display: grid; justify-content: center; align-items: center; left: 0; right: 0;}
     .phrase-first{display: table; text-align: center;}
     .p-phrase-link a{display: inline-table;}
   }
