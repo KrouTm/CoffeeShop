@@ -57,7 +57,7 @@ html{scroll-behavior: smooth;}
   .p-phrase-link a{position: relative; z-index: 1000; font-family: 'Bebas Neue', cursive; padding: 0.7rem; background-color: rgba(210, 105, 30, 0.7); border: solid 1px; text-align: center;}
   .diamond{padding: 1rem; text-align: center;}
 
-  @media (max-width: 768px){
+  @media (max-width: 900px){
     .p-phrase-link{display: grid; justify-content: center; align-items: center; left: 0; right: 0;}
     .phrase-first{display: table; text-align: center;}
     .p-phrase-link a{display: inline-table;}
