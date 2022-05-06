@@ -236,7 +236,7 @@ html{scroll-behavior: smooth;}
 /*Menu*/
 
   /*Background*/
-  .img-coffee-menu{background-image: url(https://images.unsplash.com/photo-1619416116042-b210c119b7f2?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070&q=80); background-position: center; background-attachment: fixed; background-size: cover; background-repeat: no-repeat; height: 100%; width: 100%; display: flex; justify-content: center;}
+  .img-coffee-menu{background-image: url(https://images.unsplash.com/photo-1619416116042-b210c119b7f2?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070&q=80); background-position: center; background-attachment: fixed; background-size: cover; background-repeat: no-repeat; height: 100%; width: 100%; display: flex; justify-content: center; padding-bottom: 5rem;}
 
     /*Card of Menu*/
     .all-menu{background-image: url(https://img.freepik.com/foto-gratis/viejo-fondo-negro-textura-grunge-papel-tapiz-oscuro-pizarra-pizarra-pared-habitacion_1258-28312.jpg?t=st=1651781276~exp=1651781876~hmac=3c0a7ff802fb28230586accf779e848ee6aeb157a30d8cc8392be3bfd3f91f05&w=1380); background-repeat: no-repeat; background-size: cover; width: 60%; justify-content: center; border-style: double; border-width: 0.5rem; border-color: chocolate; box-shadow: 0 0 1rem 1rem rgba(0, 0, 0, 0.7);}
