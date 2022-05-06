@@ -255,19 +255,19 @@ html{scroll-behavior: smooth;}
       .specials{background-color: chocolate; border-radius: 0 50% 50% 0 ; width: 100%;}
       .img-mug{width: 13rem; margin: -1rem 2rem; margin-left: 0;}
 
-@media (min-width:320px) and (max-width:600px){
-  .all-menu{width: 95%;}
-  .p-menu{display: block; text-align: center;}
-  .specials{display: grid; grid-template-columns: repeat(2,1fr);}
-  .specials ul{margin: 1rem;}
-  .img-mug{width: 10rem;}
-}
+      @media (min-width:320px) and (max-width:600px){
+        .all-menu{width: 95%;}
+        .p-menu{display: block; text-align: center;}
+        .specials{display: grid; grid-template-columns: repeat(2,1fr);}
+        .specials ul{margin: 1rem;}
+        .img-mug{width: 10rem;}
+      }
 
-@media (min-width:601px) and (max-width:1024px){
-  .all-menu{width: 85%;}
-  .specials ul{margin: 1rem;}
-  .img-mug{width: 10rem;}
-}
+      @media (min-width:601px) and (max-width:1024px){
+        .all-menu{width: 85%;}
+        .specials ul{margin: 1rem;}
+        .img-mug{width: 10rem;}
+      }
 
 
 
