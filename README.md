@@ -72,7 +72,7 @@
 <p align="center"><img src="screenshots/FireShot Capture 007 - Multi Device Website Mockup Generator - techsini.com.png"></p>
 
 ## Success Page
-<p align="center"><img src="screenshots/FireShot Capture 011 - Multi Device Website Mockup Generator - techsini.com.png"></p>
+<p align="center"><img src="FireShot Capture 017 - Am I Responsive_ - ui.dev.png"></p>
 
 
 
