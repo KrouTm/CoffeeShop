@@ -42,7 +42,7 @@ class Reservation(db.Model):
         self.nperson = nperson
         self.comments = comments
 
-@app.route('/')
+@app.route('/index')
 def index():
     return render_template('index.html')
 
