@@ -14,7 +14,7 @@ if ENV =='dev':
     app.config['SQLALCHEMY_DATABASE_URI'] = 'postgresql://postgres:hulck1@localhost/Reservation'
 else:
     app.debug = False
-    app.config['SQLALCHEMY_DATABASE_URI'] = 'postgresql://jvqumoivjcegaf:983bcf6bd9bddc4a169d59046311d697cdcea52b690624e9a21c9daada8ef4d5@ec2-52-200-215-149.compute-1.amazonaws.com:5432/dcu8ev06ul2mg2'
+    app.config['SQLALCHEMY_DATABASE_URI'] = 'postgresql://fmcqaikodisqta:897ac9071a746f941115952debb2b122d7d2058f63090509b197541ed2e49ec8@ec2-3-229-11-55.compute-1.amazonaws.com:5432/dfg2oaannn6r70'
 
 app.config['SQLALCHEMY_TRACK_MODIFICATIONS'] = False
 
