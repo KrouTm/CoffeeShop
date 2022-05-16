@@ -232,8 +232,9 @@ html{scroll-behavior: smooth;}
   .thanks .link{padding: 0.7rem; background-color: rgba(210, 105, 30, 0.7); border: solid 1px; width: max-content; margin: auto;}
   .thanks a{font-family: 'Bebas Neue', cursive;}
 
-  @media (min-width:320px) and (max-width:600px){
-    .thanks{height: 100vh;}
+  @media (min-width:320px) and (max-width:1024px){
+    .thanks{height: 100vh; margin: 0; background-position: bottom;}
+    .center-thanks{position: relative; top: 50%; transform: translateY(-50%); background-color: rgba(0, 0, 0, 0.5); box-shadow: 0 0 1.5rem 1.5rem rgba(0, 0, 0, 0.5); padding: 5rem 0;}
   }
 
 
