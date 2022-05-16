@@ -223,7 +223,7 @@ html{scroll-behavior: smooth;}
       .information{display: table; width: 100%; margin: 1rem 0;}
     }
 
-/*Reservations*/
+/*Success page*/
 
   /*Thank you!*/
   .thanks{height: 100%; margin-top: 20vh; text-align: center; background-image: url(https://images.unsplash.com/photo-1522008174174-1a7e4c12078f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1974&q=80); background-position: center; background-size: cover; background-repeat: no-repeat; padding: 2rem;}
@@ -231,6 +231,10 @@ html{scroll-behavior: smooth;}
   .thanks h1{margin-bottom: 2rem;}
   .thanks .link{padding: 0.7rem; background-color: rgba(210, 105, 30, 0.7); border: solid 1px; width: max-content; margin: auto;}
   .thanks a{font-family: 'Bebas Neue', cursive;}
+
+  @media (min-width:320px) and (max-width:600px){
+    .thanks{height: 100vh;}
+  }
 
 
 /*Menu*/
