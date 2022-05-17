@@ -277,9 +277,6 @@ html{scroll-behavior: smooth;}
 
       @media (min-width:601px) and (max-width:1024px){
         .all-menu{width: 85%;}
-        .p-menu-specials{display: block;}
-        .p-mug{text-align: center;}
-        .img-mug{width: 10rem; margin: auto;}
       }
 
 
