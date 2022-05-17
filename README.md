@@ -3,7 +3,7 @@
 **<p align="center">For lovers of all types of coffee</p>**
 
 [View the live project here.](https://reservation-coffee.herokuapp.com/)
-<p align="center"><img src="screenshots/FireShot Capture 012 - Multi Device Website Mockup Generator - techsini.com.png"></p>
+<p align="center"><img src="screenshots/FireShot Capture 018 - Am I Responsive_ - ui.dev.png"></p>
 
 ## User Experience (UX)
 
@@ -66,10 +66,10 @@
     - To connect Python with Postgre.
 
 ## Menu Page
-<p align="center"><img src="screenshots/FireShot Capture 010 - Multi Device Website Mockup Generator - techsini.com.png"></p>
+<p align="center"><img src="screenshots/FireShot Capture 021 - Am I Responsive_ - ui.dev.png"></p>
 
 ## Reservation Page
-<p align="center"><img src="FireShot Capture 007 - Multi Device Website Mockup Generator - techsini.com.png"></p>
+<p align="center"><img src="screenshots/FireShot Capture 019 - Am I Responsive_ - ui.dev.png"></p>
 
 ## Success Page
 <p align="center"><img src="screenshots/FireShot Capture 017 - Am I Responsive_ - ui.dev.png"></p>
