@@ -270,6 +270,7 @@ html{scroll-behavior: smooth;}
         .all-menu{width: 95%;}
         .p-menu{display: block;}
         .p-menu-specials{display: block;}
+        .p-menu-specials ul{position: relative; top:2rem;}
         .p-mug{text-align: center;}
         .img-mug{width: 10rem; margin: auto;}
       }
@@ -277,7 +278,6 @@ html{scroll-behavior: smooth;}
       @media (min-width:601px) and (max-width:1024px){
         .all-menu{width: 85%;}
         .p-menu-specials{display: block;}
-        .p-menu-specials ul{margin: 1rem;}
         .p-mug{text-align: center;}
         .img-mug{width: 10rem; margin: auto;}
       }
