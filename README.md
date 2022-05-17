@@ -86,7 +86,7 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 
 [Calendar](https://github.com/trananhtuat/js-calendar)
 
-+ The appearance of the calendar was created from this youtuber.
++ Calendar code was created by this youtuber.
 
 [Website Logo](https://www.pngwing.com/en/free-png-bwsac)
 
@@ -95,3 +95,7 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 [Animate on scroll](https://github.com/michalsnik/aos)
 
 + I used this function from this repository
+
+[Gallery on reservation page](https://github.com/saladestudo/tutorial-galeria-css-grid)
+
++ Gallery appearance was created by this youtuber.
