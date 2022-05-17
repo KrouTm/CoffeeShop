@@ -69,10 +69,10 @@
 <p align="center"><img src="screenshots/FireShot Capture 010 - Multi Device Website Mockup Generator - techsini.com.png"></p>
 
 ## Reservation Page
-<p align="center"><img src="screenshots/FireShot Capture 007 - Multi Device Website Mockup Generator - techsini.com.png"></p>
+<p align="center"><img src="FireShot Capture 007 - Multi Device Website Mockup Generator - techsini.com.png"></p>
 
 ## Success Page
-<p align="center"><img src="FireShot Capture 017 - Am I Responsive_ - ui.dev.png"></p>
+<p align="center"><img src="screenshots/FireShot Capture 017 - Am I Responsive_ - ui.dev.png"></p>
 
 
 
