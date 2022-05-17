@@ -247,9 +247,10 @@ html{scroll-behavior: smooth;}
     .all-menu{background-image: url(https://img.freepik.com/foto-gratis/viejo-fondo-negro-textura-grunge-papel-tapiz-oscuro-pizarra-pizarra-pared-habitacion_1258-28312.jpg?t=st=1651781276~exp=1651781876~hmac=3c0a7ff802fb28230586accf779e848ee6aeb157a30d8cc8392be3bfd3f91f05&w=1380); background-repeat: no-repeat; background-size: cover; width: 60%; justify-content: center; border-style: double; border-width: 0.5rem; border-color: chocolate; box-shadow: 0 0 1rem 1rem rgba(0, 0, 0, 0.7);}
       /*Menu title & IMG*/
       .title-img{display: grid; margin: 2rem; grid-template-columns: repeat(2,1fr); width: fit-content;}
+      .img-beans{width: 9rem;}
       .title-menu{line-height: 5rem;}
       .title-menu h1{font-family: 'Shadows Into Light Two', cursive; font-size: 4rem; color: white; letter-spacing: 1rem}
-      .title-menu h2{font-family: 'Bebas Neue', cursive; font-size: 7rem; color: chocolate; text-shadow: 0 1rem 1rem black;}
+      .title-menu h2{font-family: 'Bebas Neue', cursive; font-size: 7rem; color: chocolate;}
       /*Name of drink*/
       .p-menu{display: grid; grid-template-columns: repeat(2,1fr); text-align: center;}
       .all-menu ul{font-family: 'Shadows Into Light Two', cursive; font-size: 1.5rem; font-weight: bold; margin: 2rem;}
@@ -257,21 +258,28 @@ html{scroll-behavior: smooth;}
       .all-menu p{font-family: 'Kalam', cursive; font-weight: 100;}
       .all-menu ul, p{color: white; letter-spacing: 1px;}
       /*Specials*/
-      .specials{background-color: chocolate; border-radius: 0 50% 50% 0 ; width: 100%;}
+      .p-menu-specials{display: grid; grid-template-columns: repeat(2,1fr); text-align: center; background-color: chocolate; border-radius: 0 50% 50% 0 ; width: 100%;}
+      .p-mug{width: 100%; text-align: right;}
       .img-mug{width: 13rem; margin: -1rem 2rem; margin-left: 0;}
 
       @media (min-width:320px) and (max-width:600px){
+        .img-beans{width: 7.5rem;}
+        .title-menu{line-height: 4rem;}
+        .title-menu h1{font-size: 3.3rem; letter-spacing: 0.7rem}
+        .title-menu h2{font-size: 5.5rem;}
         .all-menu{width: 95%;}
-        .p-menu{display: block; text-align: center;}
-        .specials{display: grid; grid-template-columns: repeat(2,1fr);}
-        .specials ul{margin: 1rem;}
-        .img-mug{width: 10rem;}
+        .p-menu{display: block;}
+        .p-menu-specials{display: block;}
+        .p-mug{text-align: center;}
+        .img-mug{width: 10rem; margin: auto;}
       }
 
       @media (min-width:601px) and (max-width:1024px){
         .all-menu{width: 85%;}
-        .specials ul{margin: 1rem;}
-        .img-mug{width: 10rem;}
+        .p-menu-specials{display: block;}
+        .p-menu-specials ul{margin: 1rem;}
+        .p-mug{text-align: center;}
+        .img-mug{width: 10rem; margin: auto;}
       }
 
 
@@ -298,4 +306,3 @@ html{scroll-behavior: smooth;}
 @media (min-width:1201px) and (max-width:1500px){
   *{font-size: large;}
 }
-
