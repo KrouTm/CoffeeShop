@@ -65,7 +65,6 @@ html{scroll-behavior: smooth;}
   }
 
   @media (max-width: 480px){
-    .img-top{height: 100%;}
     .p-phrase-link{top: 6rem;}
     .phrase-first{font-size: 3rem;}
   }
