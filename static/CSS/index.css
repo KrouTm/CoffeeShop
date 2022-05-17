@@ -1,10 +1,10 @@
 body{background-image: url(https://img.rawpixel.com/s3fs-private/rawpixel_images/website_content/pf-misctexture01-tong-025-eye-01_1.jpg?w=1000&dpr=1&fit=default&crop=default&q=65&vib=3&con=3&usm=15&bg=F4F4F3&ixlib=js-2.2.1&s=d3a00d6c0f4d514aeb5fe93b069730c3); background-attachment: fixed;}
 html{scroll-behavior: smooth;}
-*{color: rgb(206, 189, 179); text-decoration: none; font-size: x-large; list-style: none; font-family: 'Bodoni Moda', serif; box-sizing: border-box; margin: 0; padding: 0; border: none;}
+*{color: white; text-decoration: none; font-size: x-large; list-style: none; font-family: 'Bodoni Moda', serif; box-sizing: border-box; margin: 0; padding: 0; border: none;}
 
 /*Navbar*/
   .logo{background-image: url("../Pictures/logo.png"); background-repeat: no-repeat; background-position: center; background-size: cover; width: 6rem; height: 6rem; margin-left: 1rem; margin-right: 1rem;}
-  #header{display: flex; align-items: center; position: fixed; top: 0;  right: 0; left: 0; z-index: 100; margin: auto; box-shadow: inset 0 2rem 3rem 0 rgba(0, 15, 15); background-color: rgba(20, 10, 10, 0.3);}
+  #header{display: flex; align-items: center; position: fixed; top: 0;  right: 0; left: 0; z-index: 100; margin: auto; box-shadow: inset 0 2rem 3rem 0 rgba(0, 15, 15); background-color: rgba(20, 10, 10, 0.5);}
   #mobile{display: none;}
   .navbar a{position: relative; background: none; padding: 1.5rem; box-shadow: 0 1px 0 0 rgba(206, 189, 179, 0.5);}
   .navbar a::before, .navbar > a::after{content: ''; position: absolute; width: 100%; height: 100%; background-color: rgba(206, 189, 179, 0.1); top: 0; left: 0; transition: clip-path .5s; z-index: -1;}
@@ -52,15 +52,19 @@ html{scroll-behavior: smooth;}
   .img-top{background-image: url('../Pictures/coffee.jpg'); background-size: cover; background-position: right; background-repeat: no-repeat; position: relative; top: 0; right: 0; left: 0; height: 100vh; z-index: -10;}
 
   /*Phrase & links on top*/
-  .phrase-first{position: relative; font-size: 3rem; font-family: 'Bebas Neue', cursive; letter-spacing: 0.3rem;}
+  .phrase-first{position: relative; font-size: 3.5rem; font-family: 'Bebas Neue', cursive; letter-spacing: 0.3rem; text-shadow: 0 0.5rem 1rem black;}
   .p-phrase-link{position: absolute; top: 6rem; padding: 2rem;}
-  .p-phrase-link a{position: relative; z-index: 1000; font-family: 'Bebas Neue', cursive; padding: 0.7rem; background-color: rgba(210, 105, 30, 0.7); border: solid 1px; text-align: center;}
+  .p-phrase-link a{position: relative; font-family: 'Bebas Neue', cursive; padding: 0.7rem; background-color: rgba(210, 105, 30, 0.8); border: solid 1px; text-align: center;}
   .diamond{padding: 1rem; text-align: center;}
 
-  @media (max-width: 900px){
-    .p-phrase-link{display: grid; justify-content: center; align-items: center; left: 0; right: 0;}
+  @media (min-width:320px) and (max-width:1024px){
+    .p-phrase-link{display: inline-table; left: 0; right: 0; top: 0; bottom: 0; margin: auto; text-align: center;}
     .phrase-first{display: table; text-align: center;}
-    .p-phrase-link a{display: inline-table;}
+    .p-phrase-link a{display: inline-table; width: 100%; font-size: 1.5rem;}
+  }
+
+  @media (max-width: 480px){
+    .phrase-first{font-size: 3rem;}
   }
 
   /*3 Imgs*/
@@ -249,14 +253,14 @@ html{scroll-behavior: smooth;}
       .title-img{display: grid; margin: 2rem; grid-template-columns: repeat(2,1fr); width: fit-content;}
       .img-beans{width: 9rem;}
       .title-menu{line-height: 5rem;}
-      .title-menu h1{font-family: 'Shadows Into Light Two', cursive; font-size: 4rem; color: white; letter-spacing: 1rem}
+      .title-menu h1{font-family: 'Shadows Into Light Two', cursive; font-size: 4rem; letter-spacing: 1rem}
       .title-menu h2{font-family: 'Bebas Neue', cursive; font-size: 7rem; color: chocolate;}
       /*Name of drink*/
       .p-menu{display: grid; grid-template-columns: repeat(2,1fr); text-align: center;}
       .all-menu ul{font-family: 'Shadows Into Light Two', cursive; font-size: 1.5rem; font-weight: bold; margin: 2rem;}
       .all-menu li{display: grid; grid-template-columns: repeat(2,1fr);}
       .all-menu p{font-family: 'Kalam', cursive; font-weight: 100;}
-      .all-menu ul, p{color: white; letter-spacing: 1px;}
+      .all-menu ul, p{letter-spacing: 1px;}
       /*Specials*/
       .p-menu-specials{display: grid; grid-template-columns: repeat(2,1fr); text-align: center; background-color: chocolate; border-radius: 0 50% 50% 0 ; width: 100%;}
       .p-mug{width: 100%; text-align: right;}
