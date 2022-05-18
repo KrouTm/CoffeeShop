@@ -89,8 +89,14 @@
         <img src="screenshots/Imgs.PNG">
         <img width="auto" height="700px" src="screenshots/Imgs0.PNG">
 
-        - The menu - The link takes the user to a page with the coffee options available at the establishment.
-        - Our Grain selection - Directs the user to a page where it shows all the beans used in the coffee and how the coffee preparation is done.
+        - The images contain inviting and charismatic descriptions, so that the user feels invited to know more about suffering.
+
+    - ### 3 images with description
+        <img src="screenshots/Imgs.PNG">
+        <img width="auto" height="700px" src="screenshots/Imgs0.PNG">
+
+        - The about section is a brief description of what the website is currently offering to the user.
+        - It is possible to see the text when the user hover over it.
 
 
     ### Menu Page
