@@ -10,12 +10,21 @@
 -   ### User stories
 
     -   #### First Time Visitor Goals
-
+    1. As a First Time Visitor, I want to immediately understand the intent of the site.
+    2. As a First Time Visitor, I want to view and navigate the website on all devices.
+    3. As a First Time Visitor, I want to have easy access to the menu (learning about the coffees on offer) and the reservation page (being easy and practical to do it).
+    4. As a First Time Visitor, I want to know if it is reliable and professional.
+    5. As a First Time Visitor, if I make a reservation, I would like a confirmation of my reservation to make sure it has been booked.
 
     -   #### Returning Visitor Goals
-
+    1. As a Returning Visitor, I want to be able to subscribe to receive communications or promotions.
+    2. As a Returning Visitor, I would like to be able to send messages or reviews to improve the establishment.
+    3. As a Returning Visitor, I want to login so that I can manage my booking requests.
 
     -   #### Frequent User Goals
+    1. As a Frequent User, I want to have new options on the menu in addition to the old ones.
+    2. As a Frequent User, I want to see improvements on the site but without changing the instinct, so it doesn't make me confused.
+    3. As a Frequent User, I want to feel stability and constancy in the changes.
 
 
 ## Technologies used.
