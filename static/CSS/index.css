@@ -105,13 +105,28 @@ html{scroll-behavior: smooth;}
   .v{padding: 0 5% 5% 5%;}
 
   /*Footer*/
-  .Footer{position: relative; text-align: left; padding: 2rem; display: inline-block; width: 100%; background-color: rgba(0, 0, 0, 0.5);}
-  .p-info{margin: 1.5rem; float: left; color: chocolate;}
-  .p-info a{display: grid;}
-  .p-info a:hover{color: rgba(206, 189, 179, 0.555);}
-  .p-info-font{display: grid; float: left; margin: 1.5rem;}
-  .p-info-font i{color: chocolate; margin-right: 1rem;}
-  .p-info-font a:hover{color: rgba(206, 189, 179, 0.555);}
+  .footer{line-height: 3.5rem; font-size: 0.7rem; letter-spacing: 2px; padding: 2.5rem;}
+  .grid-footer{display: grid; grid-template-columns: repeat(3,1fr);}
+    /*Opening Hours*/
+    .footer ul{font-family: 'Bebas Neue', cursive; font-size: 1.5rem; color: chocolate; max-width: 30rem;}
+    .footer li{display: grid; grid-template-columns: repeat(2,1fr);}
+    /*Stay in Touch*/
+    .p-info-font{display: grid; margin-right: 1.5rem; font-family: 'Bebas Neue', cursive; font-size: 1.5rem; color: chocolate;}
+    .p-info-font i{margin-right: 1rem;}
+    .p-info-font a{font-size: 0.7rem;}
+    .p-info-font a:hover{color: rgba(206, 189, 179, 0.5);}
+    /*Recent Posts*/
+    .post{font-family: 'Bebas Neue', cursive; font-size: 1.5rem; color: chocolate;} 
+    .post ul{display: table; border: solid 1px rgb(206, 189, 179); border-radius: 0.4rem; line-height: normal;}    
+    .img-new{background-image: url(https://images.unsplash.com/photo-1552346989-e069318e20a5?ixlib=rb-1.2.1&raw_url=true&q=80&fm=jpg&crop=entropy&cs=tinysrgb&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2074);}
+    .img-new0{background-image: url(https://images.unsplash.com/photo-1617086903048-65e5d76dd467?ixlib=rb-1.2.1&raw_url=true&q=80&fm=jpg&crop=entropy&cs=tinysrgb&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1964);}
+    .style-new{display: table-cell; width: 4rem; height: 4rem; border-radius: 0.4rem; margin: 0.2rem; background-position: center; background-size: cover; background-repeat: no-repeat;}
+    .post li{display: block; padding: 1rem; display: table-cell; float: left;}
+    .post h1, p{font-size: 0.7rem;}
+    /*Social Medias*/
+    .social-footer{display: flex; justify-content: center;}
+    .social-footer i{font-size: 1.5rem; letter-spacing: 2.5rem; margin-top: 2rem;}
+    .social-footer i:hover{color: rgba(206, 189, 179, 0.5);}
 
 /*All Booking*/
 
