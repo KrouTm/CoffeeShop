@@ -26,10 +26,9 @@
     2. As a Frequent User, I want to see improvements on the site but without changing the instinct, so it doesn't make me confused.
     3. As a Frequent User, I want to feel stability and constancy in the changes.
 
+## Technologies used
 
-## Technologies used.
-
-### Languages Used.
+### Languages Used
 
 - [HTML5](https://en.wikipedia.org/wiki/HTML5)
 
@@ -39,7 +38,7 @@
 
 - [Python](https://en.wikipedia.org/wiki/Python_(programming_language))
 
-### Frameworks Libraries and Programs.
+### Frameworks Libraries and Programs
 
 - [Google Fonts](https://fonts.google.com/)
     - Google fonts were used to import the 'Bodoni Moda' and 'Bebas Neue' fonts into the style.css file which is used on all pages throughout the project.
@@ -74,15 +73,28 @@
 - [Flask](https://flask.palletsprojects.com/en/2.1.x/)
     - To connect Python with Postgre.
 
-## Menu Page
-<p align="center"><img src="screenshots/FireShot Capture 021 - Am I Responsive_ - ui.dev.png"></p>
+## Features
+- The website is responsive on all device sizes.
 
-## Reservation Page
-<p align="center"><img src="screenshots/FireShot Capture 019 - Am I Responsive_ - ui.dev.png"></p>
+    ### Home Page
+    <p align="center"><img src="screenshots/FireShot Capture 018 - Am I Responsive_ - ui.dev.png"></p>
 
-## Success Page
-<p align="center"><img src="screenshots/FireShot Capture 017 - Am I Responsive_ - ui.dev.png"></p>
 
+    ### Menu Page
+    <p align="center"><img src="screenshots/FireShot Capture 021 - Am I Responsive_ - ui.dev.png"></p>
+
+
+    ### Reservation Page
+    <p align="center"><img src="screenshots/FireShot Capture 019 - Am I Responsive_ - ui.dev.png"></p>
+
+    ### Success Page
+    <p align="center"><img src="screenshots/FireShot Capture 017 - Am I Responsive_ - ui.dev.png"></p>
+
+    ## Navbar
+    <img width="500px" height="auto" src="screenshots/Navbar.PNG">
+    <img width="300px" height="auto" src="screenshots/Navbar0.PNG">
+
+    ## Footer
 
 
 ## Testing
