@@ -98,8 +98,8 @@
     - Simple and easily accessible.
 
     ## Footer
-    <img width="500px" height="auto" src="screenshots/Footer.PNG">
-    <img width="300px" height="auto" src="screenshots/Footer0.PNG">
+    <img width="auto" height="500px" src="screenshots/Footer.PNG">
+    <img width="auto" height="500px" src="screenshots/Footer0.PNG">
 
     - Contains the important information you need, such as contact information and business hours of the establishment.
 
