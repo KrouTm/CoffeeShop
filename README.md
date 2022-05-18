@@ -85,6 +85,13 @@
         - The menu - The link takes the user to a page with the coffee options available at the establishment.
         - Our Grain selection - Directs the user to a page where it shows all the beans used in the coffee and how the coffee preparation is done.
 
+    - ### 3 images with description
+    <img src="screenshots/Links on 3 imgs0.PNG">
+    <img width="auto" height="500px" src="screenshots/Links on 3 imgs.PNG">
+
+    - The menu - The link takes the user to a page with the coffee options available at the establishment.
+    - Our Grain selection - Directs the user to a page where it shows all the beans used in the coffee and how the coffee preparation is done.
+
 
     ### Menu Page
     <p align="center"><img src="screenshots/FireShot Capture 021 - Am I Responsive_ - ui.dev.png"></p>
