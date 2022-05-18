@@ -86,11 +86,11 @@
         - Our Grain selection - Directs the user to a page where it shows all the beans used in the coffee and how the coffee preparation is done.
 
     - ### 3 images with description
-    <img src="screenshots/3 imgs.PNG">
-    <img width="auto" height="500px" src="screenshots/3 imgs0.PNG">
+        <img src="screenshots/3 imgs.PNG">
+        <img width="auto" height="500px" src="screenshots/3 imgs0.PNG">
 
-    - The menu - The link takes the user to a page with the coffee options available at the establishment.
-    - Our Grain selection - Directs the user to a page where it shows all the beans used in the coffee and how the coffee preparation is done.
+        - The menu - The link takes the user to a page with the coffee options available at the establishment.
+        - Our Grain selection - Directs the user to a page where it shows all the beans used in the coffee and how the coffee preparation is done.
 
 
     ### Menu Page
