@@ -92,8 +92,8 @@
         - The images contain inviting and charismatic descriptions, so that the user feels invited to know more about suffering.
 
     - ### 3 images with description
-        <img src="screenshots/Imgs.PNG">
-        <img width="auto" height="700px" src="screenshots/Imgs0.PNG">
+        <img src="screenshots/About.PNG">
+        <img src="screenshots/About0.PNG">
 
         - The about section is a brief description of what the website is currently offering to the user.
         - It is possible to see the text when the user hover over it.
