@@ -87,7 +87,7 @@
 
     - ### 3 images with description
         <img src="screenshots/Imgs.PNG">
-        <img src="screenshots/Imgs0.PNG">
+        <img width="auto" height="500px" src="screenshots/Imgs0.PNG">
 
         - The menu - The link takes the user to a page with the coffee options available at the establishment.
         - Our Grain selection - Directs the user to a page where it shows all the beans used in the coffee and how the coffee preparation is done.
