@@ -93,12 +93,14 @@
     ## Navbar
     <img width="500px" height="auto" src="screenshots/Navbar.PNG">
     <img width="300px" height="auto" src="screenshots/Navbar0.PNG">
+    
     - Navbar is always available to the user.
     - Simple and easily accessible.
 
     ## Footer
     <img width="500px" height="auto" src="screenshots/Footer.PNG">
     <img width="300px" height="auto" src="screenshots/Footer0.PNG">
+
     - Contains the important information you need, such as contact information and business hours of the establishment.
 
 
