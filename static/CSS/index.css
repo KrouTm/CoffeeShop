@@ -74,7 +74,7 @@ html{scroll-behavior: smooth;}
   .img-coffee{background-image: url(https://images.unsplash.com/photo-1524350876685-274059332603?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1471&q=80);}
   .img-coffee1{background-image: url(https://images.unsplash.com/photo-1606160596333-0afbc139925c?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070&q=80);}
   .img-coffee2{background-image: url(https://images.unsplash.com/photo-1630938237517-0fcaefdb2641?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1974&q=80);}
-  .card-info{width: auto; background-color: rgba(0, 0, 0, 0.5); border: solid 2px rgba(206, 189, 179, 0.2); margin: 1rem;}
+  .card-info{width: 100%; background-color: rgba(0, 0, 0, 0.5); border: solid 2px rgba(206, 189, 179, 0.2); margin: 1rem;}
   .all-coffee{background-position: center; background-repeat: no-repeat; background-size: cover; height: 45vh;}
   .text-card{padding: 5%;}
   .text-card h1{font-family: 'Bebas Neue', cursive; font-size: 1.5rem; color: chocolate;}
