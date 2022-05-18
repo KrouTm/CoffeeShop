@@ -91,8 +91,8 @@
     <p align="center"><img src="screenshots/FireShot Capture 017 - Am I Responsive_ - ui.dev.png"></p>
 
     ## Navbar
-    <img width="500px" height="auto" src="screenshots/Navbar.PNG">
-    <img width="300px" height="auto" src="screenshots/Navbar0.PNG">
+    <img src="screenshots/Navbar.PNG">
+    <img src="screenshots/Navbar0.PNG">
     
     - Navbar is always available to the user.
     - Simple and easily accessible.
