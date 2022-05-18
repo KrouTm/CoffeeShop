@@ -117,21 +117,21 @@ html{scroll-behavior: smooth;}
     .p-info-font a:hover{color: rgba(206, 189, 179, 0.5);}
     /*Recent Posts*/
     .post{font-family: 'Bebas Neue', cursive; font-size: 1.5rem; color: chocolate;} 
-    .post ul{display: table; border: solid 1px rgb(206, 189, 179); border-radius: 0.4rem; line-height: normal; min-width: 100%;}
+    .post ul{display: table; border: solid 1px rgb(206, 189, 179); border-radius: 0.4rem; line-height: normal; min-width: 100%; margin-top: 0.5rem;}
     .img-new{background-image: url(https://images.unsplash.com/photo-1552346989-e069318e20a5?ixlib=rb-1.2.1&raw_url=true&q=80&fm=jpg&crop=entropy&cs=tinysrgb&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2074);}
     .img-new0{background-image: url(https://images.unsplash.com/photo-1617086903048-65e5d76dd467?ixlib=rb-1.2.1&raw_url=true&q=80&fm=jpg&crop=entropy&cs=tinysrgb&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1964);}
     .style-new{display: table-cell; width: 4rem; height: 4rem; border-radius: 0.4rem; margin: 0.2rem; background-position: center; background-size: cover; background-repeat: no-repeat;}
     .post li{display: block; padding: 1rem; display: table-cell; float: left;}
     .post h1, p{font-size: 0.7rem;}
     /*Social Medias*/
-    .social-footer{display: flex; justify-content: center; width: 100%;}
-    .social-footer i{font-size: 1.5rem; letter-spacing: 2.5rem; margin-top: 2rem;}
+    .social-footer{display: flex; justify-content: center;}
+    .social-footer i{font-size: 1.5rem; margin-top: 2rem; padding: 0 2rem;}
     .social-footer i:hover{color: rgba(206, 189, 179, 0.5);}
 
     @media(max-width:900px){
       .footer{text-align: center; font-size: 1rem;}
       .footer hr{margin: auto;}
-      .grid-footer{display: inline-block;}
+      .grid-footer{display: inline-table; margin: auto;}
       .p-info-font a{font-size: 1rem;}
       .post h1, p{font-size: 1rem;}
     }
