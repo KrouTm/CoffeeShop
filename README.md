@@ -105,6 +105,27 @@
     ### Reservation Page
     <p align="center"><img src="screenshots/FireShot Capture 019 - Am I Responsive_ - ui.dev.png"></p>
 
+    - ### Gallery
+        <img src="screenshots/Gallery.PNG">
+        <img width="auto" height="500px" src="screenshots/Gallery0.PNG">
+
+        - The gallery is fully responsive.
+        - The gallery's intention is to draw the customer's attention and show the coffee shop environment.
+
+    - ### Cups
+        <img src="screenshots/Cups.PNG">
+        <img width="auto" height="500px" src="screenshots/Cups0.PNG">
+
+        - The intention of the three glasses is to show several options of coffee with a brief description about.
+        - This captivates the customer's desire to try it and thus make the reservation.
+
+    - ### Calendar
+        <img src="screenshots/Calendar.PNG">
+        <img width="auto" height="500px" src="screenshots/Calendar0.PNG">
+
+        - The calendar serves to show the user the days that are already fully booked.
+        - The user will be able to clearly see the dates available to make a reservation.
+
     ### Success Page
     <p align="center"><img src="screenshots/FireShot Capture 017 - Am I Responsive_ - ui.dev.png"></p>
 
