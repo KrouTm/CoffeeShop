@@ -136,15 +136,15 @@
     <p align="center"><img src="screenshots/Responsive/FireShot Capture 017 - Am I Responsive_ - ui.dev.png"></p>
 
     ## Navbar
-    <img src="screenshots/Navbar.png">
-    <img src="screenshots/Navbar0.png">
+    <img src="screenshots/Navbar.PNG">
+    <img src="screenshots/Navbar0.PNG">
     
     - Navbar is always available to the user.
     - Simple and easily accessible.
 
     ## Footer
-    <img src="screenshots/Footer.png">
-    <img width="auto" height="500px" src="screenshots/Footer0.png">
+    <img src="screenshots/Footer.PNG">
+    <img width="auto" height="500px" src="screenshots/Footer0.PNG">
 
     - Contains the important information you need, such as contact information and business hours of the establishment.
 
