@@ -80,20 +80,20 @@
     <p align="center"><img src="screenshots/Responsive/FireShot Capture 018 - Am I Responsive_ - ui.dev.png"></p>
 
     - ### Links on top
-        <img src="screenshots/Links on top.PNG">
+        <img src="screenshots/Links on top.png">
 
         - The menu - The link takes the user to a page with the coffee options available at the establishment.
         - Our Grain selection - Directs the user to a page where it shows all the beans used in the coffee and how the coffee preparation is done.
 
     - ### 3 images with description
         <img src="screenshots/Imgs.PNG">
-        <img width="auto" height="700px" src="screenshots/Imgs0.PNG">
+        <img width="auto" height="700px" src="screenshots/Imgs0.png">
 
         - The images contain inviting and charismatic descriptions, so that the user feels invited to know more about suffering.
 
     - ### 3 images with description
-        <img src="screenshots/About.PNG">
-        <img src="screenshots/About0.PNG">
+        <img src="screenshots/About.png">
+        <img src="screenshots/About0.png">
 
         - The about section is a brief description of what the website is currently offering to the user.
         - It is possible to see the text when the user hover over it.
@@ -103,7 +103,7 @@
     <p align="center"><img src="screenshots/Responsive/FireShot Capture 021 - Am I Responsive_ - ui.dev.png"></p>
 
     - ### Menu
-        <img width="auto" height="500px" src="screenshots/Menu.PNG">
+        <img width="auto" height="500px" src="screenshots/Menu.png">
 
         - The intention of the three glasses is to show several options of coffee with a brief description about.
         - This captivates the customer's desire to try it and thus make the reservation.
@@ -112,21 +112,21 @@
     <p align="center"><img src="screenshots/Responsive/FireShot Capture 019 - Am I Responsive_ - ui.dev.png"></p>
 
     - ### Gallery
-        <img src="screenshots/Gallery.PNG">
+        <img src="screenshots/Gallery.png">
         <img width="auto" height="500px" src="screenshots/Gallery0.png">
 
         - The gallery is fully responsive.
         - The gallery's intention is to draw the customer's attention and show the coffee shop environment.
 
     - ### Cups
-        <img src="screenshots/Cups.PNG">
+        <img src="screenshots/Cups.png">
         <img width="auto" height="500px" src="screenshots/Cups0.png">
 
         - The intention of the three glasses is to show several options of coffee with a brief description about.
         - This captivates the customer's desire to try it and thus make the reservation.
 
     - ### Calendar
-        <img src="screenshots/Calendar.PNG">
+        <img src="screenshots/Calendar.png">
         <img width="auto" height="500px" src="screenshots/Calendar0.png">
 
         - The calendar serves to show the user the days that are already fully booked.
@@ -136,15 +136,15 @@
     <p align="center"><img src="screenshots/Responsive/FireShot Capture 017 - Am I Responsive_ - ui.dev.png"></p>
 
     ## Navbar
-    <img src="screenshots/Navbar.PNG">
-    <img src="screenshots/Navbar0.PNG">
+    <img src="screenshots/Navbar.png">
+    <img src="screenshots/Navbar0.png">
     
     - Navbar is always available to the user.
     - Simple and easily accessible.
 
     ## Footer
-    <img src="screenshots/Footer.PNG">
-    <img width="auto" height="500px" src="screenshots/Footer0.PNG">
+    <img src="screenshots/Footer.png">
+    <img width="auto" height="500px" src="screenshots/Footer0.png">
 
     - Contains the important information you need, such as contact information and business hours of the establishment.
 
