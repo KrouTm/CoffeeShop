@@ -106,8 +106,7 @@
         <img src="screenshots/Menu.png">
         <img width="auto" height="500px" src="screenshots/Menu0.png">
 
-        - The intention of the three glasses is to show several options of coffee with a brief description about.
-        - This captivates the customer's desire to try it and thus make the reservation.
+        - The menu is responsive and easy to understand.
 
     ### Reservation Page
     <p align="center"><img src="screenshots/Responsive/FireShot Capture 019 - Am I Responsive_ - ui.dev.png"></p>
