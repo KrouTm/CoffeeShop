@@ -2,7 +2,7 @@
 
 **<p align="center">For lovers of all types of coffee</p>**
 
-[View the live project here.](https://reservation-coffee.herokuapp.com/)
+[View the live project here.](https://coffee---shop.herokuapp.com/)
 <p align="center"><img src="screenshots/FireShot Capture 018 - Am I Responsive_ - ui.dev.png"></p>
 
 ## User Experience (UX)
@@ -101,6 +101,12 @@
 
     ### Menu Page
     <p align="center"><img src="screenshots/FireShot Capture 021 - Am I Responsive_ - ui.dev.png"></p>
+
+    - ### Menu
+        <img width="auto" height="500px" src="screenshots/Menu.PNG">
+
+        - The intention of the three glasses is to show several options of coffee with a brief description about.
+        - This captivates the customer's desire to try it and thus make the reservation.
 
     ### Reservation Page
     <p align="center"><img src="screenshots/FireShot Capture 019 - Am I Responsive_ - ui.dev.png"></p>
