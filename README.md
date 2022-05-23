@@ -87,7 +87,7 @@
 
     - ### 3 images with description
         <img src="screenshots/Imgs.PNG">
-        <img width="185px" height="auto" src="screenshots/Imgs0.PNG">
+        <img width="200px" height="auto" src="screenshots/Imgs0.PNG">
 
         - The images contain inviting and charismatic descriptions, so that the user feels invited to know more about suffering.
 
@@ -120,14 +120,14 @@
 
     - ### Cups
         <img src="screenshots/Cups.PNG">
-        <img width="auto" height="350px" src="screenshots/Cups0.png">
+        <img width="200px" height="auto" src="screenshots/Cups0.png">
 
         - The intention of the three glasses is to show several options of coffee with a brief description about.
         - This captivates the customer's desire to try it and thus make the reservation.
 
     - ### Calendar
         <img src="screenshots/Calendar.png">
-        <img width="auto" height="500px" src="screenshots/Calendar0.png">
+        <img width="200px" height="auto" src="screenshots/Calendar0.png">
 
         - The calendar serves to show the user the days that are already fully booked.
         - The user will be able to clearly see the dates available to make a reservation.
