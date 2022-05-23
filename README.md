@@ -120,7 +120,7 @@
 
     - ### Cups
         <img src="screenshots/Cups.PNG">
-        <img width="auto" height="500px" src="screenshots/Cups0.png">
+        <img width="auto" height="350px" src="screenshots/Cups0.png">
 
         - The intention of the three glasses is to show several options of coffee with a brief description about.
         - This captivates the customer's desire to try it and thus make the reservation.
