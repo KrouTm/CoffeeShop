@@ -86,8 +86,8 @@
         - Our Grain selection - Directs the user to a page where it shows all the beans used in the coffee and how the coffee preparation is done.
 
     - ### 3 images with description
-        <img width="auto" height="150px" src="screenshots/Imgs.PNG">
-        <img width="150px" height="auto" src="screenshots/Imgs0.PNG">
+        <img width="auto" height="200px" src="screenshots/Imgs.PNG">
+        <img width="200px" height="auto" src="screenshots/Imgs0.PNG">
 
         - The images contain inviting and charismatic descriptions, so that the user feels invited to know more about suffering.
 
