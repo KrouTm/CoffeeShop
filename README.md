@@ -86,7 +86,7 @@
         - Our Grain selection - Directs the user to a page where it shows all the beans used in the coffee and how the coffee preparation is done.
 
     - ### 3 images with description
-        <img width="auto" height="185px" src="screenshots/Imgs.PNG">
+        <img src="screenshots/Imgs.PNG">
         <img width="185px" height="auto" src="screenshots/Imgs0.PNG">
 
         - The images contain inviting and charismatic descriptions, so that the user feels invited to know more about suffering.
@@ -103,8 +103,8 @@
     <p align="center"><img src="screenshots/Responsive/FireShot Capture 021 - Am I Responsive_ - ui.dev.png"></p>
 
     - ### Menu
-        <img width="auto" height="385px" src="screenshots/Menu.png">
-        <img width="auto" height="385px" src="screenshots/Menu0.png">
+        <img src="screenshots/Menu.png">
+        <img width="auto" height="500px" src="screenshots/Menu0.png">
 
         - The menu is responsive and easy to understand.
 
