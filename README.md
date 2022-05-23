@@ -72,6 +72,19 @@
     - All the pictures that I used on the website.
 - [Flask](https://flask.palletsprojects.com/en/2.1.x/)
     - To connect Python with Postgre.
+- [Coolors](https://coolors.co/)
+    - To get the website colors.
+
+-   ### Design
+    -   #### Colour Scheme
+        -   The colors used on this website were:
+        <img src="screenshots/Colors.png">
+
+    -   #### Typography Bebas Neue
+        -   Bebas Neue was used for the titles and Bodoni Moda was used for texts and descriptions.
+
+    -   #### Imagery
+        -   All the images used have great contrasts and subtly have the tones that were used on the site.
 
 ## Features
 - The website is responsive on all device sizes.
