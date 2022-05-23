@@ -113,7 +113,7 @@
 
     - ### Gallery
         <img src="screenshots/Gallery.png">
-        <img width="auto" height="500px" src="screenshots/Gallery0.png">
+        <img width="200px" height="auto" src="screenshots/Gallery0.png">
 
         - The gallery is fully responsive.
         - The gallery's intention is to draw the customer's attention and show the coffee shop environment.
