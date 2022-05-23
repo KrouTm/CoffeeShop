@@ -103,8 +103,8 @@
     <p align="center"><img src="screenshots/Responsive/FireShot Capture 021 - Am I Responsive_ - ui.dev.png"></p>
 
     - ### Menu
-        <img width="auto" height="380px" src="screenshots/Menu.png">
-        <img width="auto" height="380px" src="screenshots/Menu0.png">
+        <img width="auto" height="390px" src="screenshots/Menu.png">
+        <img width="auto" height="390px" src="screenshots/Menu0.png">
 
         - The menu is responsive and easy to understand.
 
