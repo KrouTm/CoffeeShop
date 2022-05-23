@@ -3,7 +3,7 @@
 **<p align="center">For lovers of all types of coffee</p>**
 
 [View the live project here.](https://coffee---shop.herokuapp.com/)
-<p align="center"><img src="screenshots/FireShot Capture 018 - Am I Responsive_ - ui.dev.png"></p>
+<p align="center"><img src="screenshots/Responsive/FireShot Capture 018 - Am I Responsive_ - ui.dev.png"></p>
 
 ## User Experience (UX)
 
@@ -77,7 +77,7 @@
 - The website is responsive on all device sizes.
 
     ### Home Page
-    <p align="center"><img src="screenshots/FireShot Capture 018 - Am I Responsive_ - ui.dev.png"></p>
+    <p align="center"><img src="screenshots/Responsive/FireShot Capture 018 - Am I Responsive_ - ui.dev.png"></p>
 
     - ### Links on top
         <img src="screenshots/Links on top.PNG">
@@ -100,7 +100,7 @@
 
 
     ### Menu Page
-    <p align="center"><img src="screenshots/FireShot Capture 021 - Am I Responsive_ - ui.dev.png"></p>
+    <p align="center"><img src="screenshots/Responsive/FireShot Capture 021 - Am I Responsive_ - ui.dev.png"></p>
 
     - ### Menu
         <img width="auto" height="500px" src="screenshots/Menu.PNG">
@@ -109,11 +109,10 @@
         - This captivates the customer's desire to try it and thus make the reservation.
 
     ### Reservation Page
-    <p align="center"><img src="screenshots/FireShot Capture 019 - Am I Responsive_ - ui.dev.png"></p>
+    <p align="center"><img src="screenshots/Responsive/FireShot Capture 019 - Am I Responsive_ - ui.dev.png"></p>
 
     - ### Gallery
         <img src="screenshots/Gallery.PNG">
-
         <img width="auto" height="500px" src="screenshots/Gallery0.PNG">
 
         - The gallery is fully responsive.
@@ -121,7 +120,6 @@
 
     - ### Cups
         <img src="screenshots/Cups.PNG">
-
         <img width="auto" height="500px" src="screenshots/Cups0.PNG">
 
         - The intention of the three glasses is to show several options of coffee with a brief description about.
@@ -129,14 +127,13 @@
 
     - ### Calendar
         <img src="screenshots/Calendar.PNG">
-        
         <img width="auto" height="500px" src="screenshots/Calendar0.PNG">
 
         - The calendar serves to show the user the days that are already fully booked.
         - The user will be able to clearly see the dates available to make a reservation.
 
     ### Success Page
-    <p align="center"><img src="screenshots/FireShot Capture 017 - Am I Responsive_ - ui.dev.png"></p>
+    <p align="center"><img src="screenshots/Responsive/FireShot Capture 017 - Am I Responsive_ - ui.dev.png"></p>
 
     ## Navbar
     <img src="screenshots/Navbar.PNG">
