@@ -80,14 +80,14 @@
     <p align="center"><img src="screenshots/Responsive/FireShot Capture 018 - Am I Responsive_ - ui.dev.png"></p>
 
     - ### Links on top
-        <img src="screenshots/Links on top.png">
+        <img src="screenshots/Links on top.PNG">
 
         - The menu - The link takes the user to a page with the coffee options available at the establishment.
         - Our Grain selection - Directs the user to a page where it shows all the beans used in the coffee and how the coffee preparation is done.
 
     - ### 3 images with description
         <img src="screenshots/Imgs.PNG">
-        <img width="auto" height="700px" src="screenshots/Imgs0.png">
+        <img width="auto" height="700px" src="screenshots/Imgs0.PNG">
 
         - The images contain inviting and charismatic descriptions, so that the user feels invited to know more about suffering.
 
