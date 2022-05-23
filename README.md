@@ -113,6 +113,7 @@
 
     - ### Gallery
         <img src="screenshots/Gallery.PNG">
+
         <img width="auto" height="500px" src="screenshots/Gallery0.PNG">
 
         - The gallery is fully responsive.
@@ -120,6 +121,7 @@
 
     - ### Cups
         <img src="screenshots/Cups.PNG">
+
         <img width="auto" height="500px" src="screenshots/Cups0.PNG">
 
         - The intention of the three glasses is to show several options of coffee with a brief description about.
@@ -127,6 +129,7 @@
 
     - ### Calendar
         <img src="screenshots/Calendar.PNG">
+        
         <img width="auto" height="500px" src="screenshots/Calendar0.PNG">
 
         - The calendar serves to show the user the days that are already fully booked.
