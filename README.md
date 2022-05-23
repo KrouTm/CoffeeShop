@@ -135,6 +135,9 @@
     ### Success Page
     <p align="center"><img src="screenshots/Responsive/FireShot Capture 017 - Am I Responsive_ - ui.dev.png"></p>
 
+    - The user will be directed to this page when their reservation is submitted.
+    - The user will have a confirmation that their reservation has been completed.
+
     ## Navbar
     <img src="screenshots/Navbar.PNG">
     <img src="screenshots/Navbar0.PNG">
