@@ -44,18 +44,12 @@
     - Google fonts were used to import the 'Bodoni Moda' and 'Bebas Neue' fonts into the style.css file which is used on all pages throughout the project.
 1. [Font Awesome](https://fontawesome.com/)
     - I used the icons for decoration and social media links
-1. [Line awesome](https://icons8.com/line-awesome)
-    - I used the icons for decoration and social media links
-1. [Bootstrap 5](https://getbootstrap.com/)
-    - Bootstrap 5 was used for its grid system and its form inputs and its helper classes.
 1. [Github](https://github.com/)
     - Github was used to create and store the project repository.
 1. [Visual Studio Code](https://code.visualstudio.com/)
     - Visual Studio Code was used to create my files and code the project.
 1. [Am I responsive](http://ami.responsivedesign.is/)
     - Am I responsive was used to taking screenshots of the page at different screen sizes.
-1. [Markdown toc](http://ecotrust-canada.github.io/markdown-toc/)
-    - Markdown toc was used to create my table of contents.
 1. [Mailtrap](https://mailtrap.io/)
     - Was used to test the codes for sending data to emails.
 1. [BlueTree](https://bluetree.ai/screenfly/)
